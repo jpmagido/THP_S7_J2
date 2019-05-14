@@ -149,3 +149,7 @@ ol{
 	background-color: #2C44A4;
 	height: 170px;
 }
+#card-body{
+	background-color: #2C44A4;
+	border-radius: 8px;
+}
