@@ -1,0 +1,151 @@
+/************************/
+/* 	    HTML PAGE        */
+/************************/
+body{
+margin: 5% 15% 15% 15%; 
+}
+
+div{
+	padding: 3px;
+}
+a{
+	color: black;
+}
+.div-main{
+	display: flex;
+	justify-content: space-between;
+}
+
+.div-main-li{
+	display: flex;
+
+}
+.div-sub{
+	display: flex;
+	justify-content: space-between;
+}
+
+/************************/
+
+
+
+
+/************************/
+/* 	    COLORS        */
+/************************/
+
+
+.card-header{
+	background-color: white;
+}
+
+.card-title{
+	text-align: center;
+	margin-top: 20%;
+}
+
+
+#card-1{
+	background-color: #2C44A4;
+}
+
+#card-2{
+	background-color: #DBE6FF;
+}
+
+#card-3{
+background-color: #D8D7DB;
+}
+
+#card-4{
+background-color: #777778;
+}
+
+#card-5{
+background-color: #5B5B5C;
+}
+
+/************************/
+
+
+
+/************************/
+/* 	    TYPOS        */
+/************************/
+
+#div-typo{
+	font-family: Optima, sans-serif; 
+
+}
+
+#div-typo-head{
+	font-family: Andale Mono, monospace;
+	width: 400px;
+}
+
+#div-typo-class{
+	width: 400px;
+}
+
+#div-typo-h1{
+	font-size: 50px;
+	text-decoration: underline;
+}
+
+#div-typo-h2{
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+#div-typo-h3{
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#div-typo-h4{
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+#div-typo-h5{
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+#div-typo-h6{
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+#div-para{
+	font-size: 18px;
+}
+#div-para-s{
+	font-size: 18px;
+	font-style : italic;
+}
+
+#div-para-p{
+	font-size: 15px;
+	font-style : italic;
+	font-weight: bold;
+
+}
+
+#div-para-li{
+	margin-right: 5px;
+	width: 200px;
+}
+
+
+ul{
+	list-style-type: square;
+}
+ol{
+	list-style-type: upper-roman;
+}
+
+#footer{
+	background-color: #2C44A4;
+	height: 170px;
+}
